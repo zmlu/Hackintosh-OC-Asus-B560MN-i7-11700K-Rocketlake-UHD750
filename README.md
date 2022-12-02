@@ -62,8 +62,12 @@ If you have the same as my motherboard model and system version, you can refer t
 * Execute Disable Bit
 * EHCI Hand-off (0x2B Set to 0x1)
 
-## Problem ⚠️
+## What does NOT work  ⚠️
 iGPU can not be drived, you need to install an external gpu.
+
+## Images
+
+![info](https://raw.githubusercontent.com/zmlu/Hackintosh-OC-Asus-B560MN-i7-11700K-Rocketlake-UHD750/main/images/Screenshot-2022-12-02_10-24-35.jpg "info")
 
 ## Attention ⚠️
 
