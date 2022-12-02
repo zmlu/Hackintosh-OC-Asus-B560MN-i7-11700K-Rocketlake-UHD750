@@ -62,6 +62,9 @@ If you have the same as my motherboard model and system version, you can refer t
 * Execute Disable Bit
 * EHCI Hand-off (0x2B Set to 0x1)
 
+## Problem ⚠️
+iGPU can not be drived, you need to install an external gpu.
+
 ## Attention ⚠️
 
 Please change MLB, SystemSerialNumber, SystemUUID into your own `config.plist`.
